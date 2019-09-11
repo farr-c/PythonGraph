@@ -3,6 +3,8 @@ import time
 import tkinter as tk
 import random
 
+# this is a test change
+
 window = tk.Tk()
 window.geometry("600x600") 
 window.title("Sin Over Time")
